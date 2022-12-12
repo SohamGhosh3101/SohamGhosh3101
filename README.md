@@ -1,14 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Soham Ghosh</h1>
-<h3 align="center">I'm interested in Front End frameworks</h3>
+<h1 align="center">Hello 👋, I'm Soham Ghosh</h1>
+<h3 align="center">I'm interested in Front End frameworks 💻</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **sohamghosh3101@gmail.com**
+- 📫 How to reach me : **sohamghosh3101@gmail.com**
 
-- ⚡ Fun fact **The more I learn, the more my hair falls**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact : **The more I learn, the more my hair falls**
 <p align="left">
 </p>
 
