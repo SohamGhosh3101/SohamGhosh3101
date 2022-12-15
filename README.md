@@ -6,7 +6,7 @@
 
 - 📫 How to reach me : **sohamghosh3101@gmail.com**
 
-- ⚡ Fun fact : **The more I learn, the more my hair falls**
+- ⚡ Fun fact : **The more I learn, the more I experience hair loss**
 <p align="left">
 </p>
 
