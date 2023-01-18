@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Soham Ghosh</h1>
 <h3 align="center">I'm interested in Web Dev frameworks 💻</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me : **sohamghosh3101@gmail.com**
 
